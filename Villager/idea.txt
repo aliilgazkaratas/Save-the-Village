@@ -1,0 +1,1 @@
+I have a website idea can you give me the general structure for this idea : This platform contains different villages and this villages contains their members each member have different profile. Purpose is introducing people each other as fellow countryman.

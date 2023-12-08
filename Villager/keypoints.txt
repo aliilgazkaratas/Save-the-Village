@@ -1,0 +1,25 @@
+Here are the key parts of a web application:
+
+1. Frontend (Client-Side):
+User Interface (UI): The visual part of the application that users interact with. It includes design elements, layout, and navigation.
+HTML, CSS, JavaScript: HTML (Hypertext Markup Language) structures the content, CSS (Cascading Style Sheets) styles the presentation, and JavaScript provides interactivity and dynamic behavior.
+2. Backend (Server-Side):
+Server: Hardware or software that provides functionality, services, or resources to other programs or devices (often includes databases, files, etc.).
+Application Logic: This part manages the application's functionality, processes user requests, and interacts with databases.
+Database: Stores and manages the application's data. Common types include SQL databases (like MySQL, PostgreSQL) or NoSQL databases (like MongoDB).
+3. Communication:
+HTTP/HTTPS Protocol: Hypertext Transfer Protocol (Secure) is the foundation for communication between a client (web browser) and a server.
+APIs (Application Programming Interfaces): Enable different software systems to communicate and interact with each other.
+4. Infrastructure and Deployment:
+Web Servers: Software responsible for serving web content to users. Examples include Apache, Nginx.
+Hosting: Services that provide infrastructure for hosting web applications. For instance, AWS, Azure, or various cloud hosting providers.
+Deployment Tools: Tools and practices used to deploy the application code to servers or cloud services.
+5. Security:
+Authentication and Authorization: Managing user access to specific resources or functionalities.
+Encryption: Protecting sensitive data transmitted between the client and server using protocols like SSL/TLS.
+Input Validation and Sanitization: Ensuring data entered by users is safe and free from potential malicious content (SQL injection, cross-site scripting, etc.).
+6. Testing and Monitoring:
+Unit Testing, Integration Testing: Ensuring individual parts and the system as a whole work correctly.
+Logging and Monitoring Tools: Tracking errors, performance, and usage of the application for debugging and optimization.
+7. Version Control and Collaboration:
+Version Control Systems (e.g., Git): Managing changes to source code, facilitating collaboration among developers, and maintaining different versions.
